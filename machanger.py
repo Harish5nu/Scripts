@@ -17,6 +17,6 @@ def change_mac(interface, new_mac):
     os.system(f"sudo ifconfig {interface} up")
     print(f"[+] MAC Address changed to: {new_mac}")
 
-interface = input("Enter network interface (e.g., eth0, wlan0): ")
+interface = input("Enter Network interface (e.g., eth0, wlan0): ")
 new_mac = random_mac()
 change_mac(interface, new_mac)
