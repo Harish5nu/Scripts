@@ -2,7 +2,7 @@
 
 📜 Description:
 
-This simple Bash script allows you to temporarily change the MAC address of a network interface. It generates a random MAC address for the specified interface, enhancing privacy and useful for penetration testing.
+This simple Bash script allows you to Temporarily Change the MAC address of a network interface. It generates a Random MAC address for the specified interface, enhancing privacy and useful for penetration testing.
 
 
 ⚙️ Usage:
@@ -31,4 +31,4 @@ For educational and ethical hacking purposes only.
 
 Not for malicious activities.
 
-⭐ If helpful, please give a star!
+⭐ If helpful, Please give a Star!
